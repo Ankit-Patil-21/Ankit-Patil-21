@@ -1,6 +1,6 @@
  Hi, I’m Ankit Sharad Patil 
  
- I’m currently in SE Computer Engineering 
+ I’m currently in TE Computer Engineering 
 
 <!---
 Ankit-Patil-21/Ankit-Patil-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
